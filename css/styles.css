@@ -1,0 +1,28 @@
+/* add your CSS here */
+img{
+  width: 300px
+}
+
+ul{
+  list-style: none;
+  padding: 0px;
+}
+
+h3{
+  font-size: 20px;
+}
+
+.animal-card{
+  padding: 10px;
+  border: 1px solid #c4c7c3;
+  box-shadow: 6px 6px 15px -1px #c4c7c3;
+  width: 300px;
+  font-size: 14px;
+  font-family: "Times New Roman", Serif;
+}
+
+.animal-card-descripton{
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid #c4c7c3;
+}
