@@ -1,6 +1,7 @@
 /* add your CSS here */
 img{
-  width: 300px
+  width: 300px;
+  border-radius: 5px;
 }
 
 ul{
@@ -16,6 +17,7 @@ h3{
   padding: 10px;
   border: 1px solid #c4c7c3;
   box-shadow: 6px 6px 15px -1px #c4c7c3;
+  border-radius: 5px;
   width: 300px;
   font-size: 14px;
   font-family: "Times New Roman", Serif;
@@ -25,4 +27,5 @@ h3{
   padding-left: 10px;
   padding-right: 10px;
   border: 1px solid #c4c7c3;
+  border-radius: 5px;
 }
